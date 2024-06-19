@@ -1,0 +1,74 @@
+ANDROID/Bankbot.FRGF.Gen
+Andr/Xgen2-AJW
+Android.Malware.Trojan
+Android.Spy.1080.origin
+Android.Trojan-Banker.Fakecalls.Gajl
+Android.Trojan.Banker.ACX
+Android/Agent.DSI!tr
+Android:Evo-gen [Trj]
+AppRisk:Generisk
+Artemis!6C5BBFB51342
+Artemis!Trojan
+Detected
+Dropper.Agent.Android.371053
+Dropper/Android.Kaishi.1204837
+HEUR:Trojan-Banker.AndroidOS.Fakecalls.k
+Malware.ANDROID/Bankbot.FRGF.Gen
+Trojan ( 005752a51 )
+Trojan-Dropper.AndroidOS.Agent
+Trojan.Android.Bankbot.kamfge
+Trojan.AndroidOS.Fakecalls.C!c
+Trojan.Gen.MBT
+Trojan/Generic.ASMalwAD.2D
+Trojan:AndroidOS/Multiverze
+TrojanBanker:Android/Fakecalls.755b9000
+a variant of Android/TrojanDropper.Agent.GLA
+malware (ai score=99)
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------
+멘토님께 질문
+
+제가 이해하기에는 
+popular_threat_categories 는 악성코드 패밀리 보다는 조금 더 큰 분류. 유형이고
+
+악성코드 패밀리는 더 세분화된 개념과 그 변형에 관한 것이라는데 맞는건지.
+바이러스 토탈에는 
+Family labels : fakecalls bankbot frgf 이렇게 되어있긴 했는데.
+
+//
+gpt로 위 결과에 대해  찾아본 내용
+
+# ANDROID/Bankbot.FRGF.Gen: 안드로이드 플랫폼을 대상으로 하는 'Bankbot' 트로이 목마의 변종입니다. 'FRGF.Gen'은 특정 변종을 나타냅니다.
+# Andr/Xgen2-AJW: 'Andr'는 안드로이드를 대상으로 하는 악성코드이며, 'Xgen2'는 특정 세대 또는 버전을, 'AJW'는 변종을 나타냅니다.
+# Android.Malware.Trojan: 안드로이드 플랫폼을 대상으로 하는 일반적인 트로이 목마 악성코드입니다.
+# Android.Spy.1080.origin: 안드로이드 기기에서 정보를 수집하는 스파이웨어의 한 종류입니다. '1080.origin'은 특정 변종을 나타냅니다.
+# Android.Trojan-Banker.Fakecalls.Gajl: 안드로이드 플랫폼을 대상으로 하는, 가짜 전화(fake calls)를 이용해 은행 정보를 훔치는 트로이 목마입니다. 'Gajl'은 변종을 나타냅니다.
+# Android.Trojan.Banker.ACX: 안드로이드 기기에서 은행 정보를 탈취하는 트로이 목마 악성코드입니다. 'ACX'는 특정 변종을 나타냅니다.
+# Android/Agent.DSI!tr: 안드로이드 플랫폼을 대상으로 하는 악성 에이전트이며, 'DSI!tr'은 특정 변종을 나타냅니다.
+# Android:Evo-gen [Trj]: 안드로이드 플랫폼에 대한 진화하는 유전적 변종을 가진 트로이 목마 악성코드입니다.
+# AppRisk:Generisk: 특정 애플리케이션의 위험을 나타내는 일반적인 리스크 레벨을 가리키며, 'Generisk'는 일반적(generic)인 위험을 의미할 수 있습니다.
+# Artemis!Trojan: 'Artemis'는 McAfee의 휴리스틱 검출 기술로, 트로이 목마를 나타냅니다.
+# Artemis!6C5BBFB51342: 'Artemis' 기술에 의해 탐지된 트로이 목마이며, '6C5BBFB51342'는 고유 식별자입니다.
+# Detected: 탐지됨을 의미하지만 구체적인 패밀리나 유형은 명시되지 않았습니다.
+# Dropper.Agent.Android.371053: 안드로이드 플랫폼을 대상으로 하는 드로퍼 유형의 악성코드입니다. '371053'은 특정 변종을 나타냅니다.
+# Dropper/Android.Kaishi.1204837: 'Kaishi' 드로퍼 패밀리의 안드로이드 변종으로, '1204837'은 고유 식별자입니다.
+# HEUR:Trojan-Banker.AndroidOS.Fakecalls.k: 휴리스틱 분석에 의해 탐지된 안드로이드 은행 트로이 목마로, 'Fakecalls' 패밀리에 속하며 'k'는 변종을 나타냅니다.
+# Malware.ANDROID/Bankbot.FRGF.Gen: 'Bankbot' 악성코드 패밀리의 안드로이드 변종으로, 은행 관련 정보 탈취를 목적으로 합니다. 'FRGF.Gen'은 특정 변종을 나타냅니다.
+# Trojan ( 005752a51 ): '005752a51'은 특정 트로이 목마 변종의 고유 식별자입니다.
+# Trojan-Dropper.AndroidOS.Agent: 안드로이드 운영 체제를 대상으로 하는 트로이 드로퍼 악성코드입니다.
+# Trojan.Android.Bankbot.kamfge: 'Bankbot' 트로이 목마 패밀리의 안드로이드 변종으로, 'kamfge'는 특정 변종을 나타냅니다.
+# Trojan.AndroidOS.Fakecalls.C!c: 'Fakecalls' 트로이 목마 패밀리의 안드로이드 변종으로, 'C!c'는 변종을 나타냅니다.
+# Trojan.Gen.MBT: 일반적인 트로이 목마 패밀리로, 'MBT'는 특정 변종이나 기술을 나타낼 수 있습니다.
+# Trojan/Generic.ASMalwAD.2D: 일반적인 트로이 목마 악성코드로, 'ASMalwAD.2D'는 특정 변종을 나타냅니다.
+# Trojan:AndroidOS/Multiverze: 'Multiverze'는 안드로이드 운영 체제를 대상으로 하는 트로이 목마 패밀리입니다.
+# TrojanBanker:Android/Fakecalls.755b9000: 'Fakecalls' 은행 트로이 목마 패밀리의 안드로이드 변종으로, '755b9000'은 특정 변종을 나타냅니다.
+# a variant of Android/TrojanDropper.Agent.GLA: 안드로이드 플랫폼을 대상으로 하는 'TrojanDropper.Agent' 트로이 목마의 변종입니다. 'GLA'는 특정 변종을 나타냅니다.
